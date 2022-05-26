@@ -1,2 +1,2 @@
 #!/bin/bash
-chown betty -user guillaum hello
+find / -user guillaum chown betty hello
